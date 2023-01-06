@@ -30,5 +30,11 @@ Tampilan User:
 -) edit.php (ikutin database)
 
 Tampilan transaksi:
--) List buat list transaksi
--) 
+-) List buat list transaksi (table headernya ikutin database aja)
+-) create.php (ikutin database)
+-) edit.php (ikutin database)
+
+Tampilan perusahaan:
+-) List buat list perusahaan (table headernya ikutin database aja)
+-) create.php (ikutin database)
+-) edit.php (ikutin database)
